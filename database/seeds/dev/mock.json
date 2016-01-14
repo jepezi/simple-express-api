@@ -1,0 +1,11 @@
+{
+  "posts": [
+    { "id": 1, "user_id": 1, "title": "For Her", "slug": "for-her", "body": "Gifts selected for girls", "is_activated": 1 },
+    { "id": 2, "user_id": 1, "title": "For Him", "slug": "for-him", "body": "Gifts selected for guys", "is_activated": 1 },
+    { "id": 3, "user_id": 1, "title": "Fun", "slug": "fun", "body": "Fun Gifts", "is_activated": 1 },
+    { "id": 4, "user_id": 1, "title": "Cute", "slug": "cute", "body": "Cute Gifts", "is_activated": 1 },
+    { "id": 5, "user_id": 1, "title": "For Home", "slug": "for-home", "body": "Home Gifts", "is_activated": 1 },
+    { "id": 6, "user_id": 1, "title": "Experiences", "slug": "experiences", "body": "Experiences Gifts", "is_activated": 1 },
+    { "id": 7, "user_id": 1, "title": "Weekends", "slug": "weekends", "body": "Weekends Gifts", "is_activated": 1 }
+  ]
+}
