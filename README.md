@@ -1,34 +1,25 @@
-# Simple API Server
-
-## Packages
+# Simple Express API Server for development
 
 ```
-npm i --save \
-mysql \
-knex \
-bookshelf \
-bcrypt \
-body-parser \
-cors \
-express
+npm i
+```
+## Config
 
-```
+- Edit MySQL setting in `knexfile.js`
+- Edit `apiPort` in `server/apiServer.js` (default 9001)
 
-```
-npm i --save-dev \
-babel-plugin-add-module-exports \
-babel-preset-es2015 \
-babel-preset-react \
-babel-preset-stage-2 \
-babel-register
-```
 ## npm scripts
 
-```
+```bash
+# Make migration file
 $ npm run make:migrate users_create
+# Make seed file
 $ npm run make:seed users
+# Run latest migration
 $ npm run migrate
+# Rollback
 $ npm run rollback
+# Run seed files
 $ npm run seed
 
 ```

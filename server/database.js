@@ -1,4 +1,3 @@
-import config from './config';
-export const knex = require('knex')(config.database);
+import config from '../knexfile';
+export const knex = require('knex')(config.development);
 export default require('bookshelf')(knex);
-// bookshelf.plugin('registry');
