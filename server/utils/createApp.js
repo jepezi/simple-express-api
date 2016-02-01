@@ -52,6 +52,7 @@ function createApp() {
     if (err.data) {
       response.errors = err.data;
     }
+    console.warn('errorResponder', status, response);
 
     res.status(status);
     res.send(response);

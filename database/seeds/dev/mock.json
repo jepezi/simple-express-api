@@ -7,5 +7,11 @@
     { "id": 5, "user_id": 1, "title": "For Home", "slug": "for-home", "body": "Home Gifts", "is_activated": 1 },
     { "id": 6, "user_id": 1, "title": "Experiences", "slug": "experiences", "body": "Experiences Gifts", "is_activated": 1 },
     { "id": 7, "user_id": 1, "title": "Weekends", "slug": "weekends", "body": "Weekends Gifts", "is_activated": 1 }
+  ],
+  "comments": [
+    { "id": 1, "post_id": 1, "name": "Luna", "body": "Love you daddy", "is_activated": 1 },
+    { "id": 2, "post_id": 2, "name": "Nala", "body": "Love you mommy", "is_activated": 1 },
+    { "id": 3, "post_id": 1, "name": "Nala", "body": "You smell funny!", "is_activated": 1 },
+    { "id": 4, "post_id": 2, "name": "Baboo", "body": "You baboo!", "is_activated": 1 }
   ]
 }

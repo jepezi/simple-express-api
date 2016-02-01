@@ -9,6 +9,7 @@ function createPromiseHandler(func) {
         .then(result => res.json(result))
         .catch(next);
     } catch (err) {
+      // err in promiseHandler
       next(err);
     }
   }

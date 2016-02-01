@@ -2,7 +2,8 @@ const mock = require('./mock.json');
 
 exports.seed = function(knex, Promise) {
   var tables = [
-    'posts'
+    'posts',
+    'comments'
   ];
 
   return Promise.reduce(tables, function (_, table) {
