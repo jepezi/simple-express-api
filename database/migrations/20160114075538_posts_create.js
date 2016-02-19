@@ -5,7 +5,7 @@ exports.up = function(knex, Promise) {
     table.integer('user_id').unsigned().defaultTo(0);
     table.string('title').notNullable();
     table.string('slug');
-    table.string('body');
+    table.text('body');
     table.string('is_activated').defaultTo(0);
     table.timestamps();
     table.dateTime('deleted_at');
