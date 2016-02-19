@@ -1,17 +1,101 @@
 {
   "posts": [
-    { "id": 1, "user_id": 1, "title": "For Her", "slug": "for-her", "body": "Gifts selected for girls", "is_activated": 1 },
-    { "id": 2, "user_id": 1, "title": "For Him", "slug": "for-him", "body": "Gifts selected for guys", "is_activated": 1 },
-    { "id": 3, "user_id": 1, "title": "Fun", "slug": "fun", "body": "Fun Gifts", "is_activated": 1 },
-    { "id": 4, "user_id": 1, "title": "Cute", "slug": "cute", "body": "Cute Gifts", "is_activated": 1 },
-    { "id": 5, "user_id": 1, "title": "For Home", "slug": "for-home", "body": "Home Gifts", "is_activated": 1 },
-    { "id": 6, "user_id": 1, "title": "Experiences", "slug": "experiences", "body": "Experiences Gifts", "is_activated": 1 },
-    { "id": 7, "user_id": 1, "title": "Weekends", "slug": "weekends", "body": "Weekends Gifts", "is_activated": 1 }
+    {
+      "id": 1,
+      "user_id": 1,
+      "title": "Hello World!",
+      "slug": "hello-world",
+      "body": "Quia et suscipit\n\nsuscipit recusandae consequuntur expedita et cum\n\nreprehenderit molestiae ut ut quas totam\n\nnostrum rerum est autem sunt rem eveniet architecto",
+      "is_activated": 1,
+      "created_at": "2016-01-17 23:18:12"
+    },
+    {
+      "id": 2,
+      "user_id": 1,
+      "title": "Chocolate Covered Bacon With Bacon Sprinkles",
+      "slug": "chocolate-covered-bacon-with-bacon-sprinkles",
+      "body": "Chocolate Covered Bacon isn’t original in the least bit, but I don’t care. I came across some white chocolate in my kitchen cabinet — which I bought a while back for some other blog-related idea I had, but for the life of me I can’t remember what it was anymore — so I decided to make some. Then just to make it extra awesome I sprinkled some bacon crumbles on it as well.\n\nNow, Chocolate Covered Bacon With Bacon Sprinkles should be pretty self-explanatory if you want to make it for yourself, but you never know. I received an email from someone recently asking me what kind of cheese I used in a grilled cheese sandwich I wrote about so I answered her question and then added “or you could just use whatever cheese you normally use when you make a grilled cheese” to which she responded that she’d never made one before and didn’t know how.\n\nAnyway, just in case she’s reading this — what’s up Vicky! — and doesn’t know how to cover bacon in chocolate either here’s how to make it.",
+      "is_activated": 1,
+      "created_at": "2016-01-20 19:32:14"
+    },
+    {
+      "id": 3,
+      "user_id": 1,
+      "title": "S’mores Pizza",
+      "slug": "s-mores pizza",
+      "body": "I made this back in March when I had some graham crackers and half a bag of marshmallows left over after making my S’mores Cone so I figured I’d put them to good use by whipping up a S’mores Pizza.\n\nI finally Googled “Smore’s Pizza” after I made it and it turns out that a ton of people have already done this so I wasn’t even going to post it but whatever, it was awesome so I decided to share it anyway.\n\nThe process was pretty much exactly the same as it was when I made the cone — I mixed 1 1/2 cups of crushed graham crackers with two eggs, a tablespoon of vegetable oil and a sprinkle of sugar and spooned a few tablespoons of the mixture into my waffle cone maker and let it bake for a minute.\n\nThis time though, instead of forming it into a cone, I topped it with mini marshmallows and popped it into my 350° oven for ten minutes. After taking it out I drizzled melted Hershey’s chocolate on top of the golden brown marshmallows, sliced it up and dug in! It was delicious! On top of that it was way less messy than the S’mores Quesadilla that I made four years ago was.",
+      "is_activated": 1,
+      "created_at": "2016-01-22 11:14:15"
+    },
+    {
+      "id": 4,
+      "user_id": 1,
+      "title": "Deep Fried Doritos Breaded Taco Bell Burritos",
+      "slug": "deep-fried-doritos-breaded-taco-bell-burritos",
+      "body": "I’ve made a ton of ridiculous things over the years using items from fast food restaurants, but out of all of them this is the one that I could actually picture ending up on said restaurant’s menu.\n\nFor one, it seems like Taco Bell is continually rolling out new items and two, they definitely don’t seem opposed to adding crazy new items that most other chains would shy away from. Items like the Quesarito (which, if we’re being honest was a blatant rip off of the secret menu item that people had already been ordering at Chipotle for years)  or the now-discontinued Waffle Taco that they sold during breakfast hours.\n\nWhat’s even better is that these Deep Fried Doritos Breaded Burritos are made up of two basic ingredients — Nacho Cheese Doritos and a Beefy 5-Layer Burrito — both of which are already available at every Taco Bell location nationwide!\n\nThe process to create this amazing new item is pretty simple, you just need to dip a burrito in an egg wash, roll it around in crushed up Doritos and then drop it in the deep fryer for a minute or so. After that you can top it with your favorite Taco Bell sauce and enjoy the crunchy, beefy — although for something that has the word “beefy” right in the title Taco Bell could really throw at least a little more beef in their Beefy 5-Layer Burrito —  cheesy goodness!",
+      "is_activated": 1,
+      "created_at": "2016-01-25 18:21:52"
+    },
+    {
+      "id": 5,
+      "user_id": 1,
+      "title": "Pear Stuffed Soft Pretzel Balls",
+      "slug": "pear-stuffed-soft-pretzel-balls",
+      "body": "When you think of classic sweet and salty food combinations what comes to mind? Chocolate covered bacon? Ham and pineapple? Well, here’s a new one for you — Pear Stuffed Soft Pretzel Balls! The folks over at Foodbeast partnered up with the Canned Food Alliance and asked a few different food bloggers — myself included — to create quick and easy recipes that make use of canned items as an integral part of the dish. They also specifically stated that they weren’t looking for anything that was deep fried, which sort of threw me for a loop since that’s a majority of what I do, but in the end I’m pretty sure that deep fried or not nothing could have topped these. In fact, I’ve never even been a huge fan of pears until I decided to make these, but now I’m hooked! The fact that they were canned made them even more delicious since they’re basically just soaking up juice concentrate right until you eat them. Want to make your own Pear Stuffed Soft Pretzel Balls? Head over to Foodbeast for the recipe!",
+      "is_activated": 1,
+      "created_at": "2016-01-26 13:48:14"
+    },
+    {
+      "id": 6,
+      "user_id": 1,
+      "title": "The Spaghetti and Meatball Cone",
+      "slug": "the-spaghetti-and-meatball-cone",
+      "body": "Back when I made Spaghetti Fries I mentioned how my buddy Kyle A.K.A. The Vulgar Chef and I had both been attempting to make  Spaghetti and Meatball Tacos but that he beat me to it.\n\nSince then I’ve wanted to make a Spaghetti and Meatball Cone and seeing as how he already perfected the whole forming spaghetti into a shape and baking it thing I figured that I could just pull a BuzzFeed — the folks at BuzzFeed Food are notorious for ripping off ideas from food bloggers without crediting them in case you don’t get the reference — and just copy what he did but do it in cone form. I guess I didn’t technically pull a BuzzFeed since I credited him, but whatever, you get the idea.\n\nI started off by cooking some spaghetti according to the directions on the box and mixed in a few eggs with the noodles. I then spread the spaghetti onto a baking sheet and put it in my 400º oven for ten minutes.\n\nAfter letting the noodles cool for half an hour or so I cut out a large triangle type shape, rolled it around a metal cone form I have and wrapped it in aluminum foil. Kyle finished off his Spaghetti Tacos off by throwing them back in the oven at 450º for 20 minutes, but I tried that with my cone and it wasn’t staying together very well so I made a new one and just dropped it in my deep fryer for 90 seconds for the final step, which seemed to do the trick!",
+      "is_activated": 1,
+      "created_at": "2016-01-29 11:31:04"
+    },
+    {
+      "id": 7,
+      "user_id": 1,
+      "title": "The Pizza Cronut",
+      "slug": "the-pizza-cronut",
+      "body": "Are Cronuts still popular or has the hype finally died down? The last time I was in New York City there were still crazy long lines outside of Dominique Ansel Bakery, but that was a year and a half ago.\n\nUsually I’m way ahead of the trends when it comes to crazy food creations, but with this one I realize that I’m way behind. Either way, I felt like making a Pizza Cronut so that’s exactly what I did!\n\nI started off by taking some croissant dough and cutting it into circles using an upside down glass. To poke the holes in the middle I used a jigger that I grabbed out of my liquor cabinet, because you’ve gotta make due with what you’ve got right?\n\nFor each Cronut I then stacked five layers of dough — with cheese between each one — on top of one another and then deep fried them for about a minute until they were golden brown. After that I topped them with pizza sauce, even more cheese and some mini pepperoni and then baked them in my oven for seven minutes at 350º.\n\nI originally tried making the entire thing in the oven, just skipping the deep frying part of it completely, but all that left me with was a flattened pile of cooked dough, sauce, cheese and pepperoni. I mean, I ate it anyway, but looks wise it was a total mess…. I also probably didn’t need to make them as tall as I did, but since there was cheese between each layer they were awesome either way. As a bonus my wife also reminded me that we had some Parmesan cheese in our refrigerator so I grated fresh Parmesan over my Pizza Cronuts as well. Wanna try making your own? Check out the video below!",
+      "is_activated": 1,
+      "created_at": "2016-02-01 20:26:34"
+    }
   ],
   "comments": [
-    { "id": 1, "post_id": 1, "name": "Luna", "body": "Love you daddy", "is_activated": 1 },
-    { "id": 2, "post_id": 2, "name": "Nala", "body": "Love you mommy", "is_activated": 1 },
-    { "id": 3, "post_id": 1, "name": "Nala", "body": "You smell funny!", "is_activated": 1 },
-    { "id": 4, "post_id": 2, "name": "Baboo", "body": "You baboo!", "is_activated": 1 }
+    {
+      "id": 1,
+      "post_id": 1,
+      "name": "Luna",
+      "body": "Cool!",
+      "is_activated": 1,
+      "created_at": "2016-01-20 22:14:46"
+    },
+    {
+      "id": 2,
+      "post_id": 2,
+      "name": "Nala",
+      "body": "Awesome",
+      "is_activated": 1,
+      "created_at": "2016-01-21 14:21:14"
+    },
+    {
+      "id": 3,
+      "post_id": 1,
+      "name": "Nala",
+      "body": "Amazing",
+      "is_activated": 1,
+      "created_at": "2016-01-25 16:31:22"
+    },
+    {
+      "id": 4,
+      "post_id": 2,
+      "name": "Baboo",
+      "body": "You baboo!",
+      "is_activated": 1,
+      "created_at": "2016-01-27 21:32:43"
+    }
   ]
 }
